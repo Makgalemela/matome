@@ -1,0 +1,130 @@
+size = 3
+Player1: c2r2  O
+Player2: c0r1  O
+Player1: c2r1  S
+Player2: c1r0  S
+Player1: c2r0  O
+Player2: c1r1  S
+Player1: c1r2  S
+Player2: c0r2  O
+Player1: c0r0  O
+Player1 = 0
+Player2 = 0
+win = Draw
+
+size = 4
+Player1: c3r3  O
+Player2: c1r1  O
+Player1: c3r2  S
+Player2: c2r3  S
+Player1: c3r1  O
+Player2: c1r0  S
+Player1: c3r0 c2r0  O
+Player2: c2r2  O
+Player1: c2r1 c1r2  S
+Player2: c1r3  O
+Player1: c0r3 c0r1  S
+Player2: c0r0  O
+Player1: c0r2 c0r2  S
+Player1 = 0
+Player2 = 4
+win = Player2
+
+size = 3
+Player1: c2r2  O
+Player2: c0r1  O
+Player1: c2r1  S
+Player2: c1r0  S
+Player1: c2r0  O
+Player2: c1r1  S
+Player1: c1r2  S
+Player2: c0r2  O
+Player1: c0r0  O
+Player1 = 0
+Player2 = 0
+win = Draw
+
+size = 4
+Player1: c3r3  O
+Player2: c1r1  O
+Player1: c3r2  S
+Player2: c2r3  S
+Player1: c3r1  O
+Player2: c1r0  S
+Player1: c3r0 c2r0  O
+Player2: c2r2  O
+Player1: c2r1 c1r2  S
+Player2: c1r3  O
+Player1: c0r3 c0r1  S
+Player2: c0r0  O
+Player1: c0r2 c0r2  S
+Player1 = 0
+Player2 = 4
+win = Player2
+
+size = 5
+Player1: c4r4  O
+Player2: c3r2  O
+Player1: c4r3  S
+Player2: c2r0  S
+Player1: c4r2  O
+Player2: c3r0  S
+Player1: c4r1 c4r0  O
+Player2: c1r3  O
+Player1: c3r4  S
+Player2: c2r1 c0r0  O
+Player1: c3r1  O
+Player2: c0r1  S
+Player1: c3r3  S
+Player2: c2r3 c2r2  S
+Player1: c2r4 c1r2  O
+Player2: c1r0  S
+Player1: c1r4  S
+Player2: c1r1  O
+Player1: c0r2 c0r3 c0r4 c0r4  O
+Player1 = 2
+Player2 = 5
+win = Player2
+
+size = 6
+Player1: c5r5  O
+Player2: c0r5  O
+Player1: c5r4  S
+Player2: c5r3  S
+Player1: c5r2  O
+Player2: c2r3  S
+Player1: c5r1 c5r0  O
+Player2: c4r1  O
+Player1: c4r5  S
+Player2: c1r1  O
+Player1: c4r4  O
+Player2: c2r5  S
+Player1: c4r3 c4r2  O
+Player2: c1r5  S
+Player1: c3r1  O
+Player2: c0r2  O
+Player1: c3r2  S
+Player2: c2r2  S
+Player1: c2r4 c3r0 c3r3 c3r4 c3r5 c4r0 c2r1  O
+Player2: c0r4  S
+Player1: c2r0 c1r3  O
+Player2: c1r4  S
+Player1: c0r3 c0r0 c0r1 c1r0 c1r2 c1r2  O
+Player1 = 0
+Player2 = 14
+win = Player2
+
+size = 3
+Player1: c2r2  O
+Player2: c0r1  O
+Player1: c2r1  S
+Player2: c1r0  S
+Player1: c2r0  O
+Player2: c1r1  S
+Player1: c1r2  S
+Player2: c0r2  O
+Player1: c0r0  O
+Player1 = 0
+Player2 = 0
+win = Draw
+

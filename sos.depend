@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1565520284 source:e:\sos\main.cpp
+	<iostream>
+	"SOS.h"
+	<fstream>
+
+1565518422 e:\sos\sos.h
+	<string>
+	<fstream>
+
+1565520956 source:e:\sos\sos.cpp
+	"SOS.h"
+	<fstream>
+	<iostream>
+	<cstdlib>
+	<time.h>
+
